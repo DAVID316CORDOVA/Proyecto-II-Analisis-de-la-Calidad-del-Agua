@@ -33,8 +33,6 @@ tarea_mpi/
 │
 ├── *.PNG                                ← Imágenes exportadas del notebook
 │
-├── Analisis/                            ← Gráficas del Taller MPI (otro taller)
-├── Soluciones/                          ← Datos .dat del Taller MPI
 └── README.md
 ```
 
