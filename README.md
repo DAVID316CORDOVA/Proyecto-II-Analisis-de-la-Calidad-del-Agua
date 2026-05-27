@@ -1,6 +1,6 @@
 # Calidad del Agua en India — Análisis con PySpark, Keras y MLlib
 
-**Pontificia Universidad Javeriana · Procesamiento de Alto Volumen (PAVD) **  
+**Pontificia Universidad Javeriana · Procesamiento de Alto Volumen de Datos**  
 **Autor:** Félix Córdova  
 **Notebook:** `Clean_ML_Water_Cordova_Felix.ipynb`
 
@@ -33,6 +33,8 @@ tarea_mpi/
 │
 ├── *.PNG                                ← Imágenes exportadas del notebook
 │
+├── Analisis/                            ← Gráficas del Taller MPI (otro taller)
+├── Soluciones/                          ← Datos .dat del Taller MPI
 └── README.md
 ```
 
@@ -295,4 +297,3 @@ mapclassify    >= 2.4.0
 8. Chollet, F. et al. (2015). Keras. https://keras.io
 
 9. GeoPandas Development Team (2024). GeoPandas Documentation. https://geopandas.org/en/stable/
-
