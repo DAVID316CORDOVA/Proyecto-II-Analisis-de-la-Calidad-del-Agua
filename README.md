@@ -1,6 +1,6 @@
 # Calidad del Agua en India — Análisis con PySpark, Keras y MLlib
 
-**Pontificia Universidad Javeriana · Computación de alto desempeño**  
+**Pontificia Universidad Javeriana · Procesamiento de Alto Volumen (PAVD) **  
 **Autor:** Félix Córdova  
 **Notebook:** `Clean_ML_Water_Cordova_Felix.ipynb`
 
